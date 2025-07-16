@@ -10,6 +10,13 @@
           "description": "Taze sebzeler ve kızarmış ekmek ile ferahlatıcı salata.",
           "icons": []
         },
+    {
+          "image": "https://via.placeholder.com/150",
+          "name": "Fattuş Salatası",
+          "price": "25.00 TL",
+          "description": "Taze sebzeler ve kızarmış ekmek ile ferahlatıcı salata.",
+          "icons": []
+        },
         {
           "image": "https://via.placeholder.com/150",
           "name": "umus",
