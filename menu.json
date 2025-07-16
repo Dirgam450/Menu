@@ -1,0 +1,62 @@
+{
+  "categories": [
+    {
+      "name": "Başlangıçlar",
+      "dishes": [
+        {
+          "image": "https://via.placeholder.com/150",
+          "name": "Fattuş Salatası",
+          "price": "25.00 TL",
+          "description": "Taze sebzeler ve kızarmış ekmek ile ferahlatıcı salata.",
+          "icons": []
+        },
+        {
+          "image": "https://via.placeholder.com/150",
+          "name": "Humus",
+          "price": "18.00 TL",
+          "description": "Zeytinyağı ve maydanoz ile kremalı humus.",
+          "icons": ["🥦"]
+        }
+      ]
+    },
+    {
+      "name": "Ana Yemekler",
+      "dishes": [
+        {
+          "image": "https://via.placeholder.com/150",
+          "name": "Tavuk Kabsa",
+          "price": "55.00 TL",
+          "description": "Tavuk parçaları ve Arap baharatları ile basmati pirinci.",
+          "icons": ["🌶️"]
+        },
+        {
+          "image": "https://via.placeholder.com/150",
+          "name": "Kuzu Mandi",
+          "price": "70.00 TL",
+          "description": "Basmati pirinci ile yavaş pişirilmiş kuzu eti.",
+          "icons": []
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "dishes": [
+        {
+          "image": "https://via.placeholder.com/150",
+          "name": "Umm Ali",
+          "price": "30.00 TL",
+          "description": "Ekmek, süt ve kuruyemişlerle geleneksel Mısır tatlısı.",
+          "icons": ["🥜"]
+        },
+        {
+          "image": "https://via.placeholder.com/150",
+          "name": "Künefe",
+          "price": "35.00 TL",
+          "description": "Peynir ve kaymaklı şerbetli künefe.",
+          "icons": []
+        }
+      ]
+    }
+  ]
+}
+
