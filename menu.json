@@ -6,14 +6,14 @@
         {
           "image": "https://via.placeholder.com/150",
           "name": "Fattuş Salatası",
-          "price": "25.00 TL",
+          "price": "5.00 TL",
           "description": "Taze sebzeler ve kızarmış ekmek ile ferahlatıcı salata.",
           "icons": []
         },
         {
           "image": "https://via.placeholder.com/150",
           "name": "Humus",
-          "price": "18.00 TL",
+          "price": "8.00 TL",
           "description": "Zeytinyağı ve maydanoz ile kremalı humus.",
           "icons": ["🥦"]
         }
